@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... pyhton & SQL
 - 💞️ I’m looking to collaborate on ... Model creation
 - 📫 How to reach me ... [email](weihao95@gmail.com)
+- [Linkedin](www.linkedin.com/in/loh-wei-hao)
 
 <!---
 weihao95/weihao95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
