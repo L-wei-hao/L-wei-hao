@@ -1,4 +1,4 @@
-- 👋 Hi, I’m weihao. I am currently a Data Science immersive student in General Assembly https://www.nicepng.com/maxp/u2w7w7i1i1a9u2a9/
+- 👋 Hi, I’m weihao. I am currently a Data Science immersive student in General Assembly, I have a background in AML and Compliance
 - 👀 I’m interested in Datascience 
 - 🌱 I’m currently learning ... pyhton & SQL
 - 💞️ I’m looking to collaborate on ... Model creation
